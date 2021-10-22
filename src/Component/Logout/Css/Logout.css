@@ -1,0 +1,43 @@
+.header {
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 1002;
+}
+
+.black-bg {
+    background:white;
+    border-bottom: 1px solid #9e9fa0;
+    margin-top:0px;
+
+}
+
+
+a.logo {
+    font-size: 24px;
+   
+    float: left;
+    padding-top:10px;
+    margin-left:10px;
+    /* text-transform: uppercase; */
+}
+
+
+.pull-right{
+    margin-right:10px !important;
+    padding-top:10px  !important;
+    float: right;
+}
+
+
+
+
+.img {
+    width: 30% !important;
+    height: 10% !important;
+}
+
+
+a:hover {
+    cursor : pointer
+}
